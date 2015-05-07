@@ -1,0 +1,7 @@
+﻿@import "_vars";
+
+@mixin name-space {
+    .#{$name-space} {
+        @content;
+    }
+}

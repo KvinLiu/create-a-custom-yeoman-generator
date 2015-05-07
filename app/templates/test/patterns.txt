@@ -1,0 +1,3 @@
+{pattern: 'app/bower_components/**/*.js', included: false},
+{pattern: 'app/**/*.js', included: false},
+{pattern: 'test/spec/**/*Spec.js', included: false}

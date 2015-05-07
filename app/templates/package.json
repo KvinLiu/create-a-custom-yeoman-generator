@@ -1,0 +1,13 @@
+{
+    "name": "<%= appname %>",
+    "version": "<%= appversion %>",
+    "description": "<%= appdescription %>",
+    "license": "<%= applicense %>",
+    "dependencies": { },
+    "devDependencies": {
+        "grunt-contrib-clean": "0.6.0",
+        "grunt-contrib-jshint": "~0.11.1",
+        "grunt-contrib-requirejs": "~0.4.1",
+        "grunt-sass": "~0.18.1"
+    }
+}

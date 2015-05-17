@@ -1,7 +1,7 @@
 {
   "name": "generator-jstack",
   "version": "0.1.0",
-  "description": "A front-end application generator for RequireJS, KnockoutJS, Sass, Pure, Jasmine, Sinon and Karma",
+  "description": "A front-end application generator for RequireJS, KnockoutJS, Sass, Jasmine, Sinon and Karma",
   "main": "index.js",
   "scripts": {
     "test": ""
@@ -11,7 +11,6 @@
     "RequireJS",
     "KnockoutJS",
     "Sass",
-    "Pure",
     "Jasmine",
     "Sinon",
     "Karma"

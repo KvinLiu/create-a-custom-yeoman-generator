@@ -1,6 +1,4 @@
-﻿## Generator jstack
-
-jstack is a basic Yeoman generator that installs RequireJS, KnockoutJS, Sass, Jasmine, Sinon and Karma. Used as the example application in the Tuts+ course Creating a Yeoman Generator
+﻿jstack is a basic Yeoman generator that installs RequireJS, KnockoutJS, Sass, Jasmine, Sinon and Karma. Used as the example application in the Tuts+ course Creating a Yeoman Generator
 
 ## Usage
 

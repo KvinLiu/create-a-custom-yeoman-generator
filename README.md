@@ -1,4 +1,4 @@
-# [Create a Custom Yeoman Generator]][published url]
+# [Create a Custom Yeoman Generator][published url]
 ## Instructor: [Dan Wellman][instructor url]
 
 

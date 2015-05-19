@@ -23,6 +23,20 @@ Has `jshint`, `sass` and `test` grunt tasks configured.
 
 Ensure the contents of the file `patterns.txt` is copied into the files array in `karma.conf.js`.
 
+----------------------------
+
+#### 3rd-Party Content
+
+#### [NodeJS logo](https://nodejs.org/logos/)
+Permitted per [Node.js Trademark Policy](https://nodejs.org/trademark-policy.pdf)
+
+#### [Grunt logo](https://github.com/gruntjs/gruntjs.com/tree/master/src/img)
+
+#### [Bower logo](http://bower.io/docs/about/#logo)
+Licensed under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)
+
+#### [Yeoman logo](https://github.com/yeoman/media)
+Licensed under [CC-BY-2.0](https://creativecommons.org/licenses/by/2.0/)
 
 ------
 
